@@ -1,4 +1,4 @@
-﻿<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p><br /></p>
 </div>
 <div class="header-wrapper story-header" id="J_storyHeader" style="background-color: rgba(0, 0, 0, 0.8); font-family: Roboto_Light, STHeiti, Arial; font-size: 12px; height: 45px; left: 0px; position: absolute; top: 0px; width: 1847.78px; z-index: 1001;">
